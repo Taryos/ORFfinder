@@ -8,7 +8,9 @@ Utilisation :
 
 Lancez le script via le terminal avec la commande suivante :
 
-```Bash python3 ORFfinder.py -i input.fa -o output.fa [options]```
+```Bash 
+python3 ORFfinder.py -i input.fa -o output.fa [options]
+```
 
 Options principales :
 
